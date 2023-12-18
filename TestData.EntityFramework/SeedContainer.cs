@@ -1,7 +1,7 @@
 using System.Reflection;
 using Microsoft.EntityFrameworkCore;
 
-namespace EntityFramework.TestData;
+namespace TestData.EntityFramework;
 
 public class SeedContainer(DbContext dbContext)
 {

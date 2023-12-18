@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramework.TestData", "EntityFramework.TestData\EntityFramework.TestData.csproj", "{50883ED2-D0A2-477F-ABE9-92078C0CB272}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestData.EntityFramework", "TestData.EntityFramework\TestData.EntityFramework.csproj", "{50883ED2-D0A2-477F-ABE9-92078C0CB272}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

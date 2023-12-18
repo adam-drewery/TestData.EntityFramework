@@ -1,4 +1,4 @@
-namespace EntityFramework.TestData;
+namespace TestData.EntityFramework;
 
 public interface ISeed<out T> where T : class
 {

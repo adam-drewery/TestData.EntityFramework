@@ -1,4 +1,4 @@
-namespace EntityFramework.TestData;
+namespace TestData.EntityFramework;
 
 public abstract class Seed
 {
